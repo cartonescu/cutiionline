@@ -13,9 +13,7 @@ export default function Home() {
       <main>
         <Header title="Cutii de carton, Cutii carton ieftine, Cutii de carton cu autoformare" />
         <p className="description">
- 
-    <a href="https://www.cartonescu.ro/"><img src="https://www.cartonescu.ro/images/logo.png"></a><br/>
-    Cartonescu este un magazin online dedicat ambalejelor și produselor destinate pregătirii și împachetarii coletelor.<br/>
+ Cartonescu este un magazin online dedicat ambalejelor și produselor destinate pregătirii și împachetarii coletelor.<br/>
 Am lansat Cartonescu cu o echipă mică și mult curaj, într-un moment de creștere accelerată a nevoii de ambalaje. <br/>
     Ne-am ales un nume haios, care vrem să inspire familiaritate și prezență constantă, deoarece ne dorim să devenim <br/>
     acel furnizor care este mereu aproape de clientul său. Asocierea numelui indică miezul afacerii noastre – clasicul carton, <br/><br/>
